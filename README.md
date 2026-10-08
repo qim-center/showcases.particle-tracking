@@ -10,9 +10,6 @@ This repository presents a showcase of tracking particles and voids through 3D X
 
 For the non-technical report with illustrations, see [report.md](report.md). The images used in the report are in [assets/](assets/).
 
-## Project Code
-
-The tracking implementation, notebooks and running instructions are available in [consult-particle-tracking](https://github.com/qim-center/consult-particle-tracking).
 
 ## License
 
