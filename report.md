@@ -1,7 +1,7 @@
 # Tracking Particles and Voids inside a deformed sample
 
-**Author**: Christian Bjerregaard
-**Email:** s224389@dtu.dk
+**Author**: Christian Bjerregaard  
+**Email:** s224389@dtu.dk  
 **Affiliation**: [QIM](https://qim.dk)  
 **Collaborating department**: DTU Construct  
 **Collaborators**: Michela La Bella (supervision), Grethe Winther (supervision), Axel Henningsson (collaborator), and Felix Frankus (collaborator).  
